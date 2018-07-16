@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YBLserver.iml" filepath="$PROJECT_DIR$/YBLserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-commom/YBLserver-commom.iml" filepath="$PROJECT_DIR$/YBLserver-commom/YBLserver-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-config/YBLserver-config.iml" filepath="$PROJECT_DIR$/YBLserver-config/YBLserver-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-gateway/YBLserver-gateway.iml" filepath="$PROJECT_DIR$/YBLserver-gateway/YBLserver-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-mointoring/YBLserver-mointoring.iml" filepath="$PROJECT_DIR$/YBLserver-mointoring/YBLserver-mointoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-persist/YBLserver-persist.iml" filepath="$PROJECT_DIR$/YBLserver-persist/YBLserver-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-redis/YBLserver-redis.iml" filepath="$PROJECT_DIR$/YBLserver-redis/YBLserver-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-registry/YBLserver-registry.iml" filepath="$PROJECT_DIR$/YBLserver-registry/YBLserver-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-service-auth/YBLserver-service-auth.iml" filepath="$PROJECT_DIR$/YBLserver-service-auth/YBLserver-service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YBLserver-service-guldan/YBLserver-service-guldan.iml" filepath="$PROJECT_DIR$/YBLserver-service-guldan/YBLserver-service-guldan.iml" />
+    </modules>
+  </component>
+</project>

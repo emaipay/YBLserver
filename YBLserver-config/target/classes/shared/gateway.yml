@@ -1,0 +1,33 @@
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 20000
+
+ribbon:
+  ReadTimeout: 20000
+  ConnectTimeout: 20000
+
+zuul:
+  ignoredServices: '*'
+  host:
+    connect-timeout-millis: 20000
+    socket-timeout-millis: 20000
+
+  prefix: /api
+  routes:
+    auth:
+        path: /auth/**
+        serviceId: service-auth
+        #stripPrefix: false
+        #sensitiveHeaders:
+    guldan:
+        path: /guldan/**
+        serviceId: service-guldan
+        #stripPrefix: false
+        #sensitiveHeaders:
+        
+server:
+  port: 6666

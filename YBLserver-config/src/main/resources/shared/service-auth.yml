@@ -1,0 +1,7 @@
+server:
+ # context-path: /auth
+  port: 9004
+  
+#mybatis:
+ # type-aliases-package: com.ybl.net.persist.model
+  #mapper-locations: classpath:mapper/*.xml

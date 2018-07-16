@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="YBLserver-commom" />
+        <module name="YBLserver-config" />
+        <module name="YBLserver-gateway" />
+        <module name="YBLserver-mointoring" />
+        <module name="YBLserver-persist" />
+        <module name="YBLserver-redis" />
+        <module name="YBLserver-registry" />
+        <module name="YBLserver-service-auth" />
+        <module name="YBLserver-service-guldan" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="YBLserver" target="1.8" />
+      <module name="YBLserver-commom" target="1.8" />
+      <module name="YBLserver-config" target="1.8" />
+      <module name="YBLserver-gateway" target="1.8" />
+      <module name="YBLserver-mointoring" target="1.8" />
+      <module name="YBLserver-persist" target="1.8" />
+      <module name="YBLserver-redis" target="1.8" />
+      <module name="YBLserver-registry" target="1.8" />
+      <module name="YBLserver-service-auth" target="1.8" />
+      <module name="YBLserver-service-guldan" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

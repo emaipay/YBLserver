@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-commom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-mointoring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-persist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-service-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YBLserver-service-guldan" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
