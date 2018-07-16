@@ -8,7 +8,7 @@ import lombok.Setter;
 
 /**
  * 自定义分类机器实体
- * @author 
+ * @author Fred Cheng
  * @data 2017年7月4日
  */
 @SuppressWarnings("serial")

@@ -8,7 +8,7 @@ import lombok.Setter;
 
 /**
  * 第三方应用APP实体
- * @author
+ * @author Fred Cheng
  * @data 2017年7月4日
  */
 @SuppressWarnings("serial")
